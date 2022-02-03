@@ -3,7 +3,7 @@ let numberPills = 10
 
 function setup() {
   cnv = createCanvas(windowWidth, windowHeight);
-  cnv.parent("sketch-div-02");
+//  cnv.parent("sketch-div-02");
   
   rectMode(CENTER)
   
