@@ -22,7 +22,7 @@ class pill1 {
         this.r2 = random(0, 255);
         this.r3 = random(50, 255);
         this.rotateX = rotateX;
-        this.rotateR = random(-0.001, 0.001);
+        this.rotateR = random(-0.0005, 0.0005);
         this.speed = random(0.25, 0.50);
         this.strokeWeight = myStrokeWeight;
         this.strokeWeight1 = 75;
